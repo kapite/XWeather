@@ -21,7 +21,7 @@ XWeather is a weather app for iOS and Android built with Xamarin.
 
 There is a `PrivateKeys.cs` file the Constants directory located at `XWeather/XWeather/Constants` that contains four `const string` keys.   
 
-All keys can be left as empty strings and the app will build/run just fine, however it will display static 'testing' weather data.  In order to set up the live weather API and use GPS services on Android, you'll need to follow the instructions below to obtain the appropriate API keys.
+All keys can be left as empty strings and the app will build/run just fine, however it will display static 'testing' weather data.  In order to set up the live weather API and use GPS services on Android, you'll need to follow the instructions below to obtain the appropriate API keys. 
 
 
 ## Weather Underground
